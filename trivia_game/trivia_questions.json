@@ -1,0 +1,1279 @@
+{
+  "categories": [
+      {
+        "name": "words in common use",
+        "difficulty_levels": [
+          {
+            "level": 1,
+            "questions": [
+              {
+                "word": "House",
+                "options": ["בית", "מכונית", "כלב", "עץ"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Water",
+                "options": ["אש", "מים", "אוויר", "אדמה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Food",
+                "options": ["בגד", "מזון", "רהיט", "צעצוע"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Book",
+                "options": ["ספר", "עט", "מחברת", "תיק"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Car",
+                "options": ["אופניים", "מכונית", "סירה", "מטוס"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Dog",
+                "options": ["חתול", "כלב", "ציפור", "דג"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Sun",
+                "options": ["ירח", "שמש", "כוכב", "ענן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Tree",
+                "options": ["פרח", "עץ", "שיח", "דשא"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Shoe",
+                "options": ["נעל", "כובע", "חולצה", "מכנסיים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Friend",
+                "options": ["אויב", "חבר", "זר", "שכן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Family",
+                "options": ["משפחה", "עבודה", "בית ספר", "חנות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Time",
+                "options": ["מקום", "זמן", "כסף", "אהבה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "School",
+                "options": ["בית חולים", "בית ספר", "משרד", "חנות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Money",
+                "options": ["זהב", "כסף", "נייר", "מטבע"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Child",
+                "options": ["תינוק", "ילד", "מבוגר", "זקן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Phone",
+                "options": ["טלפון", "מחשב", "טלוויזיה", "רדיו"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Food",
+                "options": ["שתייה", "אוכל", "בגד", "רהיט"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Fish",
+                "options": ["ציפור", "דג", "חתול", "כלב"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Door",
+                "options": ["חלון", "דלת", "קיר", "רצפה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Bed",
+                "options": ["שולחן", "כיסא", "ארון", "מיטה"],
+                "correct_answer": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "questions": [
+              {
+                "word": "Journey",
+                "options": ["עבודה", "מסע", "משחק", "ספר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Weather",
+                "options": ["אקלים", "מזג אוויר", "עונה", "טמפרטורה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Health",
+                "options": ["כושר", "בריאות", "תזונה", "מחלה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Music",
+                "options": ["ריקוד", "מוזיקה", "שירה", "נגינה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Holiday",
+                "options": ["חופשה", "עבודה", "לימודים", "בית"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Hobby",
+                "options": ["עבודה", "תחביב", "מקצוע", "כישרון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Neighbor",
+                "options": ["חבר", "שכן", "קרוב משפחה", "עמית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Vegetable",
+                "options": ["פרי", "ירק", "בשר", "דגנים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Kitchen",
+                "options": ["חדר שינה", "מטבח", "סלון", "אמבטיה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Language",
+                "options": ["דיבור", "שפה", "מילון", "תרגום"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Furniture",
+                "options": ["בגדים", "מכשירי חשמל", "רהיטים", "כלי מטבח"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Vacation",
+                "options": ["עבודה", "לימודים", "נופש", "בית"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Restaurant",
+                "options": ["חנות", "מסעדה", "בית קפה", "סופרמרקט"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Umbrella",
+                "options": ["מטריה", "שמשיה", "מעיל", "כובע"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Friendship",
+                "options": ["אהבה", "ידידות", "משפחה", "שותפות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Glasses",
+                "options": ["עדשות", "משקפיים", "מגדלת", "טלסקופ"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Bicycle",
+                "options": ["אופניים", "אופנוע", "מכונית", "רכבת"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Newspaper",
+                "options": ["מגזין", "עיתון", "ספר", "מכתב"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Wallet",
+                "options": ["תיק", "ארנק", "מזוודה", "קופסה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Toothbrush",
+                "options": ["מסרק", "מברשת שיניים", "מברשת שיער", "ספוג"],
+                "correct_answer": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "questions": [
+              {
+                "word": "Adventure",
+                "options": ["טיול", "הרפתקה", "חוויה", "אתגר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Opportunity",
+                "options": ["אפשרות", "הזדמנות", "סיכוי", "אתגר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Responsibility",
+                "options": ["חובה", "אחריות", "מחויבות", "תפקיד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Imagination",
+                "options": ["חלום", "דמיון", "יצירתיות", "פנטזיה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Environment",
+                "options": ["טבע", "סביבה", "אקולוגיה", "נוף"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Celebration",
+                "options": ["מסיבה", "חגיגה", "אירוע", "טקס"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Curiosity",
+                "options": ["עניין", "סקרנות", "חקירה", "תהייה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Determination",
+                "options": ["החלטיות", "נחישות", "אומץ", "עקשנות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Sympathy",
+                "options": ["חמלה", "אהדה", "הבנה", "רחמים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Enthusiasm",
+                "options": ["שמחה", "התלהבות", "אנרגיה", "מוטיבציה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Commitment",
+                "options": ["הבטחה", "מחויבות", "נאמנות", "אחריות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Anticipation",
+                "options": ["ציפייה", "תקווה", "חשש", "דריכות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Compassion",
+                "options": ["רחמים", "חמלה", "אהדה", "הבנה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Perspective",
+                "options": ["נקודת מבט", "השקפה", "גישה", "דעה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Appreciation",
+                "options": ["תודה", "הערכה", "הכרת תודה", "כבוד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Dedication",
+                "options": ["מסירות", "התמסרות", "נאמנות", "מחויבות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Perseverance",
+                "options": ["התמדה", "עקשנות", "נחישות", "סבלנות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Collaboration",
+                "options": ["עבודת צוות", "שיתוף פעולה", "שותפות", "עזרה הדדית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Resilience",
+                "options": ["גמישות", "חוסן", "התאוששות", "עמידות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Authenticity",
+                "options": ["אמינות", "אותנטיות", "כנות", "אמיתיות"],
+                "correct_answer": 1
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "questions": [
+              {
+                "word": "Epiphany",
+                "options": ["גילוי", "הארה", "תובנה", "התגלות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Serendipity",
+                "options": ["מקריות", "מזל", "גילוי מקרי", "הפתעה נעימה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Ephemeral",
+                "options": ["זמני", "חולף", "קצר מועד", "ארעי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Ubiquitous",
+                "options": ["נפוץ", "שכיח", "נוכח בכל מקום", "רווח"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Eloquent",
+                "options": ["רהוט", "בעל כושר ביטוי", "משכנע", "בליגי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Quintessential",
+                "options": ["טיפוסי", "מובהק", "אופייני", "מייצג"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Paradox",
+                "options": ["סתירה", "אבסורד", "פרדוקס", "דילמה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Euphoria",
+                "options": ["שמחה", "אופוריה", "התרוממות רוח", "עונג"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Enigma",
+                "options": ["תעלומה", "חידה", "מסתורין", "סוד"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Benevolent",
+                "options": ["נדיב", "טוב לב", "חסוד", "רחום"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Nostalgia",
+                "options": ["געגוע", "ערגה", "זיכרון", "נוסטלגיה"],
+                "correct_answer": 3
+              },
+              {
+                "word": "Melancholy",
+                "options": ["עצב", "דיכאון", "מלנכוליה", "צער"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Ethereal",
+                "options": ["שמימי", "אוורירי", "עדין", "רוחני"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Quintessence",
+                "options": ["תמצית", "עיקר", "מהות", "ליבה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Ephemeral",
+                "options": ["זמני", "חולף", "קצר מועד", "ארעי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Surreptitious",
+                "options": ["חשאי", "סמוי", "מוסווה", "נסתר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Magnanimous",
+                "options": ["נדיב", "אציל נפש", "רחב לב", "סלחן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Ephemeral",
+                "options": ["חולף", "זמני", "ארעי", "קצר מועד"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Eloquent",
+                "options": ["רהוט", "משכנע", "בעל כושר ביטוי", "קולח"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Quintessential",
+                "options": ["טיפוסי", "מובהק", "אופייני", "מייצג"],
+                "correct_answer": 1
+              }
+            ]
+         }
+      ]
+      },
+      {
+        "name": "Words used in business",
+        "difficulty_levels": [
+          {
+            "level": 1,
+            "questions": [
+              {
+                "word": "Meeting",
+                "options": ["פגישה", "הפסקה", "עבודה", "משכורת"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Salary",
+                "options": ["הכנסה", "משכורת", "בונוס", "מענק"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Office",
+                "options": ["בית", "משרד", "חנות", "מפעל"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Boss",
+                "options": ["עובד", "מנהל", "לקוח", "שותף"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Client",
+                "options": ["עובד", "מנהל", "לקוח", "ספק"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Contract",
+                "options": ["מסמך", "חוזה", "הסכם", "תעודה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Sale",
+                "options": ["קנייה", "מכירה", "הנחה", "מבצע"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Report",
+                "options": ["מכתב", "דוח", "מצגת", "טופס"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Team",
+                "options": ["קבוצה", "צוות", "מחלקה", "ארגון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Budget",
+                "options": ["כסף", "תקציב", "הוצאה", "הכנסה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Deadline",
+                "options": ["תאריך יעד", "סיום", "התחלה", "דחייה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Project",
+                "options": ["תוכנית", "פרויקט", "משימה", "יעד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Employee",
+                "options": ["מעסיק", "עובד", "מנהל", "יועץ"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Company",
+                "options": ["עסק", "חברה", "ארגון", "תאגיד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Manager",
+                "options": ["עובד", "מנהל", "יועץ", "מזכיר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Interview",
+                "options": ["שיחה", "ראיון", "פגישה", "הרצאה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Profit",
+                "options": ["הכנסה", "רווח", "מכירה", "השקעה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Task",
+                "options": ["עבודה", "משימה", "פרויקט", "תפקיד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Email",
+                "options": ["מכתב", "דואר אלקטרוני", "הודעה", "פקס"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Customer",
+                "options": ["מוכר", "קונה", "ספק", "שותף"],
+                "correct_answer": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "questions": [
+              {
+                "word": "Investment",
+                "options": ["השקעה", "הלוואה", "חיסכון", "ביטוח"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Strategy",
+                "options": ["תכנון", "אסטרטגיה", "טקטיקה", "מדיניות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Negotiation",
+                "options": ["שיחה", "משא ומתן", "ויכוח", "הסכמה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Competitor",
+                "options": ["לקוח", "ספק", "מתחרה", "שותף"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Marketing",
+                "options": ["פרסום", "שיווק", "מכירות", "יחסי ציבור"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Revenue",
+                "options": ["רווח", "הכנסה", "מחזור", "הוצאה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Productivity",
+                "options": ["יעילות", "פרודוקטיביות", "תפוקה", "ביצועים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Entrepreneur",
+                "options": ["מנהל", "יזם", "משקיע", "יועץ"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Outsourcing",
+                "options": ["מיקור חוץ", "העסקה", "גיוס", "פיטורים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Stakeholder",
+                "options": ["בעל מניות", "בעל עניין", "שותף", "מנהל"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Networking",
+                "options": ["תקשורת", "רישות", "שיתוף פעולה", "קשרים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Franchise",
+                "options": ["סניף", "זכיינות", "רשת", "מותג"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Inventory",
+                "options": ["מלאי", "מחסן", "הזמנה", "משלוח"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Liability",
+                "options": ["נכס", "התחייבות", "הון", "חוב"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Merger",
+                "options": ["פיצול", "מיזוג", "רכישה", "שותפות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Turnover",
+                "options": ["רווח", "מחזור", "הכנסה", "תחלופה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Forecast",
+                "options": ["תכנון", "תחזית", "ניבוי", "הערכה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Equity",
+                "options": ["הון עצמי", "מניות", "השקעה", "נכסים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Overhead",
+                "options": ["רווח", "הוצאות", "עלויות תקורה", "השקעה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Venture",
+                "options": ["עסק", "מיזם", "חברה", "שותפות"],
+                "correct_answer": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "questions": [
+              {
+                "word": "Diversification",
+                "options": ["התמקדות", "גיוון", "התרחבות", "צמצום"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Acquisition",
+                "options": ["מכירה", "רכישה", "מיזוג", "השקעה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Liquidation",
+                "options": ["פירוק", "מימוש", "פשיטת רגל", "סגירה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Collateral",
+                "options": ["הלוואה", "ביטחונות", "ערבות", "משכון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Depreciation",
+                "options": ["פחת", "ירידת ערך", "הפסד", "הוצאה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Leverage",
+                "options": ["מינוף", "השקעה", "הלוואה", "רווח"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Scalability",
+                "options": ["גמישות", "יכולת הרחבה", "יעילות", "צמיחה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Synergy",
+                "options": ["שיתוף פעולה", "סינרגיה", "איחוד כוחות", "יתרון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Volatility",
+                "options": ["יציבות", "תנודתיות", "סיכון", "שינוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Arbitrage",
+                "options": ["מסחר", "ארביטראז'", "השקעה", "ספקולציה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Benchmarking",
+                "options": ["השוואה", "מדידה", "הערכה", "ניתוח"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Dividend",
+                "options": ["רווח", "דיבידנד", "תשואה", "ריבית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Logistics",
+                "options": ["שינוע", "לוגיסטיקה", "אחסון", "הפצה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Procurement",
+                "options": ["מכירה", "רכש", "אספקה", "הזמנה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Compliance",
+                "options": ["ציות", "תקינה", "רגולציה", "חוקיות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Valuation",
+                "options": ["הערכת שווי", "מחיר", "עלות", "תמחור"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Derivatives",
+                "options": ["מניות", "אגרות חוב", "נגזרים", "אופציות"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Monetization",
+                "options": ["מסחור", "מימוש", "מונטיזציה", "הכנסה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Disruption",
+                "options": ["חדשנות", "שיבוש", "שינוי", "התפתחות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Agile",
+                "options": ["גמיש", "זריז", "אג'ילי", "מהיר"],
+                "correct_answer": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "questions": [
+              {
+                "word": "Amortization",
+                "options": ["הפחתה", "פריסה", "החזר", "מימון"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Conglomerate",
+                "options": ["תאגיד", "קונגלומרט", "חברת אחזקות", "קונצרן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Fiduciary",
+                "options": ["אמון", "נאמנות", "פידוציארי", "אחריות"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Macroeconomics",
+                "options": ["כלכלה", "מאקרו-כלכלה", "מיקרו-כלכלה", "כלכלת שוק"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Oligopoly",
+                "options": ["מונופול", "אוליגופול", "תחרות", "קרטל"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Paradigm",
+                "options": ["מודל", "פרדיגמה", "תפיסה", "גישה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Quantitative Easing",
+                "options": ["הרחבה כמותית", "הקלה כמותית", "מדיניות מוניטרית", "הזרמת כספים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Remuneration",
+                "options": ["שכר", "תגמול", "בונוס", "פיצוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Solvency",
+                "options": ["נזילות", "כושר פירעון", "איתנות פיננסית", "רווחיות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Vertical Integration",
+                "options": ["מיזוג אנכי", "אינטגרציה אנכית", "שילוב אנכי", "רכישה אנכית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Economies of Scale",
+                "options": ["יתרון לגודל", "חיסכון בעלויות", "יעילות כלכלית", "גודל כלכלי"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Disintermediation",
+                "options": ["ביטול תיווך", "הפרדה", "דיסאינטרמדיאציה", "ניתוק"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Hedging",
+                "options": ["ביטוח", "גידור", "הגנה", "צמצום סיכונים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Due Diligence",
+                "options": ["בדיקת נאותות", "חקירה מקיפה", "בדיקה יסודית", "בחינה מדוקדקת"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Arbitration",
+                "options": ["גישור", "בוררות", "פשרה", "תיווך"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Liquidity Premium",
+                "options": ["פרמיית נזילות", "עמלת נזילות", "תוספת נזילות", "מרווח נזילות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Perpetuity",
+                "options": ["קרן צמיתה", "השקעה לצמיתות", "תשלום קבוע", "הכנסה מתמדת"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Repatriation",
+                "options": ["השבת הון", "החזרת כספים", "רפטריאציה", "העברת רווחים"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Cartel",
+                "options": ["מונופול", "קרטל", "תאגיד", "ברית עסקית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Promissory Note",
+                "options": ["שטר חוב", "התחייבות", "הבטחת תשלום", "אגרת חוב"],
+                "correct_answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Words used in computers and programming",
+        "difficulty_levels": [
+          {
+            "level": 1,
+            "questions": [
+              {
+                "word": "Computer",
+                "options": ["מחשב", "טלפון", "טלוויזיה", "רדיו"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Software",
+                "options": ["חומרה", "תוכנה", "רשת", "קובץ"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Hardware",
+                "options": ["תוכנה", "חומרה", "מערכת", "תוכנית"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Internet",
+                "options": ["רשת", "אינטרנט", "מחשב", "תוכנה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Program",
+                "options": ["קוד", "תוכנית", "אפליקציה", "מערכת"],
+                "correct_answer": 1
+              },
+              {
+                "word": "File",
+                "options": ["תיקייה", "קובץ", "מסמך", "תמונה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Keyboard",
+                "options": ["עכבר", "מקלדת", "מסך", "רמקול"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Mouse",
+                "options": ["מקלדת", "עכבר", "מסך", "מדפסת"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Monitor",
+                "options": ["מסך", "מקלדת", "עכבר", "רמקול"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Printer",
+                "options": ["סורק", "מדפסת", "מצלמה", "רמקול"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Website",
+                "options": ["דף", "אתר אינטרנט", "בלוג", "פורום"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Email",
+                "options": ["הודעה", "דואר אלקטרוני", "צ'אט", "בלוג"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Password",
+                "options": ["שם משתמש", "סיסמה", "קוד", "מפתח"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Virus",
+                "options": ["תוכנה", "וירוס", "באג", "קוד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Download",
+                "options": ["העלאה", "הורדה", "שיתוף", "גיבוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Upload",
+                "options": ["הורדה", "העלאה", "שיתוף", "גיבוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Browser",
+                "options": ["דפדפן", "מנוע חיפוש", "אתר", "תוכנה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Folder",
+                "options": ["קובץ", "תיקייה", "דיסק", "כונן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Desktop",
+                "options": ["מסך", "שולחן עבודה", "תפריט", "חלון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Laptop",
+                "options": ["מחשב נייד", "טאבלט", "טלפון חכם", "מחשב שולחני"],
+                "correct_answer": 0
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "questions": [
+              {
+                "word": "Algorithm",
+                "options": ["קוד", "אלגוריתם", "פונקציה", "משתנה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Database",
+                "options": ["קובץ", "מסד נתונים", "טבלה", "שרת"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Network",
+                "options": ["אינטרנט", "רשת", "שרת", "מודם"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Programming",
+                "options": ["קידוד", "תכנות", "פיתוח", "עיצוב"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Interface",
+                "options": ["ממשק", "מסך", "תפריט", "כפתור"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Server",
+                "options": ["מחשב", "שרת", "רשת", "ענן"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Backup",
+                "options": ["העתק", "גיבוי", "שמירה", "שחזור"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Encryption",
+                "options": ["קידוד", "הצפנה", "אבטחה", "הגנה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Firewall",
+                "options": ["אנטי-וירוס", "חומת אש", "הגנה", "סינון"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Cache",
+                "options": ["זיכרון", "מטמון", "אחסון", "גיבוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Debugging",
+                "options": ["ניפוי שגיאות", "בדיקה", "תיקון", "שיפור"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Compiler",
+                "options": ["מהדר", "מתרגם", "מפרש", "מבצע"],
+                "correct_answer": 0
+              },
+              {
+                "word": "API",
+                "options": ["ממשק תכנות יישומים", "ספריית קוד", "פרוטוקול", "מודול"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Framework",
+                "options": ["ספרייה", "מסגרת עבודה", "תבנית", "כלי פיתוח"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Repository",
+                "options": ["מאגר", "ספרייה", "ארכיון", "אחסון"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Cloud",
+                "options": ["שרת", "ענן", "אחסון מרוחק", "גיבוי"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Protocol",
+                "options": ["תקן", "פרוטוקול", "הסכם", "מפרט"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Bandwidth",
+                "options": ["מהירות", "רוחב פס", "קיבולת", "תעבורה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Cookie",
+                "options": ["קובץ", "עוגייה", "מידע", "הגדרה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Cybersecurity",
+                "options": ["הגנת סייבר", "אבטחת מידע", "פרטיות", "הצפנה"],
+                "correct_answer": 0
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "questions": [
+              {
+                "word": "Machine Learning",
+                "options": ["למידת מכונה", "בינה מלאכותית", "עיבוד נתונים", "אוטומציה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Blockchain",
+                "options": ["מטבע דיגיטלי", "שרשרת בלוקים", "הצפנה", "מסד נתונים מבוזר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Virtualization",
+                "options": ["הדמיה", "וירטואליזציה", "אמולציה", "סימולציה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Microservices",
+                "options": ["שירותים זעירים", "מיקרו-שירותים", "מודולים", "רכיבים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "DevOps",
+                "options": ["פיתוח ותפעול", "דבאופס", "אוטומציה", "שיטת עבודה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Agile",
+                "options": ["זריז", "אג'ילי", "גמיש", "מהיר"],
+                "correct_answer": 1
+              },
+              {
+                "word": "IoT",
+                "options": ["אינטרנט של הדברים", "רשת חכמה", "מכשירים מחוברים", "טכנולוגיה לבישה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Big Data",
+                "options": ["מידע רב", "נתוני עתק", "ניתוח נתונים", "מסד נתונים גדול"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Scalability",
+                "options": ["הרחבה", "גמישות", "יכולת הרחבה", "התאמה"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Containerization",
+                "options": ["הכלה", "קונטיינריזציה", "וירטואליזציה", "אריזה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Serverless",
+                "options": ["ללא שרת", "מחשוב ענן", "פונקציות כשירות", "ארכיטקטורה"],
+                "correct_answer": 0
+              },
+              {
+                "word": "CI/CD",
+                "options": ["אינטגרציה מתמשכת/פריסה מתמשכת", "פיתוח מהיר", "אוטומציה", "תהליך פיתוח"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Dependency Injection",
+                "options": ["הזרקת תלות", "ניהול תלויות", "הפרדת אחריות", "עיקרון תכנותי"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Refactoring",
+                "options": ["שיפור קוד", "שכתוב", "ארגון מחדש", "ניקוי קוד"],
+                "correct_answer": 2
+              },
+              {
+                "word": "ORM",
+                "options": ["מיפוי עצמים-יחסים", "ניהול בסיס נתונים", "תכנות מונחה עצמים", "מודל נתונים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Socket",
+                "options": ["חיבור", "שקע", "פרוטוקול תקשורת", "נקודת קצה"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Middleware",
+                "options": ["תוכנת ביניים", "שכבת ביניים", "מתווך", "מודול"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Asynchronous",
+                "options": ["לא סינכרוני", "מקבילי", "רב-משימתי", "לא חוסם"],
+                "correct_answer": 0
+              },
+              {
+                "word": "GraphQL",
+                "options": ["שפת שאילתות", "פרוטוקול API", "בסיס נתונים גרפי", "ספריית JavaScript"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Microprocessor",
+                "options": ["מעבד", "שבב", "מיקרו-מעבד", "יחידת עיבוד מרכזית"],
+                "correct_answer": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "questions": [
+              {
+                "word": "Quantum Computing",
+                "options": ["מחשוב קוונטי", "מחשוב מתקדם", "עיבוד מקבילי", "מחשוב על"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Neural Network",
+                "options": ["רשת נוירונים", "למידה עמוקה", "מודל חישובי", "אלגוריתם AI"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Cryptography",
+                "options": ["הצפנה", "קריפטוגרפיה", "אבטחת מידע", "קידוד"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Kubernetes",
+                "options": ["אורקסטרציה של קונטיינרים", "ניהול משאבים", "פלטפורמת ענן", "כלי DevOps"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Polyglot Persistence",
+                "options": ["אחסון מרובה שפות", "בסיס נתונים היברידי", "שמירת נתונים מגוונת", "ניהול נתונים מורכב"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Homomorphic Encryption",
+                "options": ["הצפנה הומומורפית", "קידוד מתקדם", "אבטחה קוונטית", "הצפנה סימטרית"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Edge Computing",
+                "options": ["מחשוב קצה", "עיבוד מבוזר", "מחשוב ענן", "עיבוד מקומי"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Reactive Programming",
+                "options": ["תכנות תגובתי", "תכנות אסינכרוני", "תכנות פונקציונלי", "תכנות מונחה אירועים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Distributed Ledger",
+                "options": ["ספר חשבונות מבוזר", "בלוקצ'יין", "מסד נתונים מבוזר", "רשת עמית-לעמית"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Isomorphic JavaScript",
+                "options": ["JavaScript איזומורפי", "תכנות צד לקוח וצד שרת", "JavaScript אוניברסלי", "פיתוח Full-Stack"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Idempotency",
+                "options": ["אידמפוטנטיות", "עקביות", "חד-ערכיות", "יציבות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Chaos Engineering",
+                "options": ["הנדסת כאוס", "בדיקות עמידות", "סימולציית תקלות", "ניהול סיכונים"],
+                "correct_answer": 0
+              },
+              {
+                "word": "CQRS",
+                "options": ["הפרדת פקודות ושאילתות", "ארכיטקטורת מיקרו-שירותים", "ניהול מצב מערכת", "תבנית עיצוב"],
+                "correct_answer": 0
+              },
+              {
+                "word": "CAP Theorem",
+                "options": ["משפט CAP", "תיאוריית מסדי נתונים", "עקרון עקביות-זמינות-חלוקה", "מודל תכנון מערכות"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Fuzzing",
+                "options": ["בדיקות טשטוש", "ניתוח אבטחה", "הזרקת נתונים אקראיים", "זיהוי פגיעויות"],
+                "correct_answer": 2
+              },
+              {
+                "word": "Monorepo",
+                "options": ["מאגר יחיד", "ניהול קוד מרכזי", "ארכיטקטורת פיתוח", "גרסאות מרובות"],
+                "correct_answer": 0
+              },
+              {
+                "word": "Sharding",
+                "options": ["פיצול נתונים", "חלוקה אופקית", "ניהול עומסים", "אופטימיזציה של בסיסי נתונים"],
+                "correct_answer": 1
+              },
+              {
+                "word": "WebAssembly",
+                "options": ["שפת סף לדפדפן", "קוד בינארי לווב", "JavaScript מהיר", "פורמט קוד נמוך"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Metaprogramming",
+                "options": ["תכנות-על", "כתיבת קוד שכותב קוד", "אוטומציה של תכנות", "הרחבת שפת תכנות"],
+                "correct_answer": 1
+              },
+              {
+                "word": "Zero-Knowledge Proof",
+                "options": ["הוכחה ללא ידע", "פרוטוקול קריפטוגרפי", "אימות מאובטח", "הצפנה מתקדמת"],
+                "correct_answer": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}
